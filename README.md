@@ -72,3 +72,8 @@ flipkart_sentiment_analyzer/
 - Hugging Face Transformers
 - Streamlit Framework
 - BERT/DistilBERT research community
+
+## 👤 Author
+
+**Omkar Shenwai**  
+GitHub: https://github.com/OmkarShenwai865
